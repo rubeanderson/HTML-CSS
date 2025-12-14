@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body{
+    background-color: darkgrey;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+/*Titulo principal*/
+#principal{
+    text-align: center;
+}
+h1{
+color: aliceblue;
+}
+h2{
+color: antiquewhite;
+}
+.basico{
+color: blue;
+}
+.intermediario{
+color: rgb(255, 72, 0);
+}
+.avançado{
+color: rgb(255, 0, 149);
+}

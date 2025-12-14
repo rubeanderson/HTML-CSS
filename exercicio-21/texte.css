@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+background-image: radial-gradient(ellipse 50% 90% at center, #ddd8d8 0%,#272525 100%);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h6{
+    color: #ffffff;
+}
+#ntres{
+    text-shadow: 1px 1px 10px black;
+    display: block;
+}
+#num{
+    font-size: 6px;  
+margin: -7px 0px 0px 250px;
+position: absolute;
+}
+#ndois{
+       font-size: 6px;  
+margin: -7px 0px 0px 370px;
+position: absolute;
+
+}
+
+#principal{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 50px;
+}
+div#nquatro{
+    color: #ffffff;
+    display: block;
+}
+#ncinco{
+    font-size: 8px;
+    left: 100px;
+    top: 18px;
+    position: relative;
+}
+#nseix{
+    position: relative;
+    left: 100px;
+    top: 10px;
+    font-size: 15px;
+}
+span{
+    left: 500px;
+    position:absolute;
+    font-size: 8px;
+    left: 500px;
+    top: 100px;
+  
+}
+#ponto{
+    font-size: 130px;
+    position: absolute;
+    left: -10px;
+    top: -400px;
+    
+}
+que5

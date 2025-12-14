@@ -1,0 +1,8 @@
+*{
+    height: 100%;
+}
+/*configuração da grade de fundo*/
+body{
+   background-image: linear-gradient(to top, #127369,#10403B);
+
+}

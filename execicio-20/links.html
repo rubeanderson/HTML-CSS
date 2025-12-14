@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+    <style>
+        body{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        a{
+            color: rgb(58, 104, 12);
+            text-decoration: none;
+        }
+        a:visited{
+            color: brown;
+        }
+        a:hover{
+            color: black;
+            text-decoration:underline;
+        }
+        a:active{
+            color: blue;
+        }
+        a::before{
+            content: '>>>>>>';
+            color: blue;
+        }
+        a::after{
+            content:'>>>>link';
+            font-size: 10px;
+            color: blue;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>personalizando links</h1>
+    <li><a href="https://www.cursoemvideo.com">link</a></li>
+    <li><a href="https://www.instagram.com/">link</a></li>
+    <li><a href="https://www.youtube.com/">link</a></li>
+</body>
+</html>
